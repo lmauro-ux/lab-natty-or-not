@@ -10,7 +10,7 @@ Utilizado o Leonardo AI.
 Utilizado o Libre Office
 
 ## 🧐 Processo de Criação
-Foi usado o Chat GPT para refinar a pesquisa sobre o tema e o Leonardo AI para montagem de uma imagem para o ebook. Feito isso, utilizei o Libre Office para edição do ebook.
+Foi usado o Chat GPT para refinar a pesquisa sobre o tema e o Leonardo AI para montagem de uma imagem para o ebook. Feito isso, utilizei o Libre Office para edição do e-book.
 
 ## 🚀 Resultados
 Este ebook mostra a importância da IA generativa para auxiliar o avaliador de penhor nas suas atribuições do cargo.
